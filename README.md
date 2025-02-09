@@ -13,6 +13,7 @@ O design do projeto foi inspirado no visual do anime e dos cards do jogo. A tela
 
 - **Tela Inicial:** Exibe um banner temático e os cards interativos dos personagens.
 - **Interatividade:** Os elementos respondem a eventos de clique e hover para melhorar a experiência do usuário.
+- **Modo Defesa:** Ao clicar nas cartas, é possível virar a carta e colocá-la no modo defesa, com o fundo da carta visível, como nos duelos de Yu-Gi-Oh!.
 - **Responsividade:** O site se adapta a diferentes tamanhos de tela, garantindo uma boa experiência em dispositivos móveis e desktops.
 - **Animações:** Pequenas transições e efeitos visuais foram implementados para tornar a navegação mais dinâmica.
 
