@@ -7,6 +7,10 @@
     .slider {
         gap: 10px;
     }
+
+    .cabecalho .titulo img {
+        height: 100px;
+    }
 }
 
 @media(max-width: 496px) {

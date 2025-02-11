@@ -15,8 +15,10 @@ body {
     justify-content: center;
 }
 
-.cabecalho .titulo {
-    color: #F1ECF1;
+.cabecalho .titulo img {
+    display: flex;
+    align-items: center;
+    height: 200px;
 }
 
 .cartao {
