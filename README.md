@@ -6,8 +6,8 @@ Bem-vindo(a) ao repositório do **Projeto Yu-Gi-Oh!**, desenvolvido durante a "S
 
 O design do projeto foi inspirado no visual do anime e dos cards do jogo. A tela inicial conta com uma imagem de destaque e apresenta um layout organizado para facilitar a navegação e interação do usuário.
 
-![image](![image](https://github.com/user-attachments/assets/d826f3df-faec-4bd5-98bf-38fe02d1b336)
-)
+![image](https://github.com/user-attachments/assets/59ce9771-1302-4fa4-ac81-95392a299216)
+
  *A tela inicial apresenta um banner temático e cards interativos dos personagens.*
 
 ## 🔧 Funcionalidades
